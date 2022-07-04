@@ -1,1 +1,1 @@
-This file is only showing in a new branch
+This file is now in both main and new branch
